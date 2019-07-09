@@ -1,0 +1,10 @@
+The data:
+
+To carry out this Project and help Roberto in his new Project, we are going to need:
+
+· Data about the districts of Bogota, it will be extracted from Wikipedia. 
+· Geolocation data of these districts, provided by Open Street Map APIs. 
+· The Foursquare data about the different venues of the Districts: Burger Restaurants, Universities and High Schools and Offices venues.
+
+
+With all this data I consider that I will be able to determine which is the best district to open the new Roberto Burger restaurant.
